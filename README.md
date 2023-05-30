@@ -9,9 +9,15 @@ _____________
 * After you run the file, you must specify the IP.
 * That's all the instructions.
 _____________
-# Example
+# Code Screenshots
+![alt text](src/img/img1.png)
 ![alt text](src/img/img2.png)
-![alt text](src/img/img.png)
+![alt text](src/img/img3.png)
+_____________
+# Live Examples
+![alt text](src/img/img4.png)
+![alt text](src/img/img5.png)
+![alt text](src/img/img6.png)
 _____________
 # License
 GNU General Public License v3.0
